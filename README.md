@@ -46,7 +46,7 @@ This project is a **digital whiteboard** application built using Python's `Tkint
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/digital-whiteboard.git
+    git clone https://github.com/NewK0der/Digital-White-Board
     ```
 
 2. **Install Dependencies**:
