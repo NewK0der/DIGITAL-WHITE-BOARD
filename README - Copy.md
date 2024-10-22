@@ -1,4 +1,4 @@
-# 🖌️ Scrollable Digital Whiteboard with Drawing, Image Insertion, and Erasing Tools
+# 🖌️ Scrollable Digital Whiteboard
 
 This project is a **digital whiteboard** application built using Python's `Tkinter` library. It offers a variety of features to simulate a real whiteboard for drawing, writing, and manipulating images. The whiteboard supports pencil drawing, color selection, image addition, erasing, and image movement within a scrollable interface, allowing for an extended canvas space.
 
@@ -35,7 +35,7 @@ This project is a **digital whiteboard** application built using Python's `Tkint
 ## Download the `.exe` Version
 For users who prefer to run the application without setting up Python or dependencies, you can download the executable version:
 
-- [Download Digital Whiteboard `.exe`](https://github.com/your-username/digital-whiteboard/releases/download/v1.0.0/whiteboard.exe)
+- [Download Digital Whiteboard `.exe`](https://github.com/NewK0der/DIGITAL-WHITE-BOARD/releases/tag/v1.0.0)
 
 *Note: The `.exe` file is available for Windows systems.*
 
