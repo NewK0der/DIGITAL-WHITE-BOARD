@@ -53,7 +53,7 @@ For users who prefer to run the application without setting up Python or depende
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/digital-whiteboard.git
+    (https://github.com/NewK0der/DIGITAL-WHITE-BOARD.git)
     ```
 
 2. **Install Dependencies**:
