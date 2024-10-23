@@ -82,3 +82,7 @@ Feel free to contribute by submitting pull requests, reporting issues, or sugges
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Video
+
+Go and Watch the the video, How is it working on my linkedin profiel - https://www.linkedin.com/posts/binit-kumar-shaw-a516b3253_python-opensource-digitaltools-activity-7254762975087992832-eVtj?utm_source=share&utm_medium=member_desktop
